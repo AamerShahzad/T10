@@ -12,7 +12,7 @@ Feature: Successful login
   @test4 @Login_Success @Automation
   Scenario: Verify Login a user
     When I click sign in button
-    And I enter my Email
-    And I enter my password
+    And I enter my Email "testabc@yahoo.com"
+    And I enter my password "password1"
     And I click login button
     Then I should see I have successfully logged in

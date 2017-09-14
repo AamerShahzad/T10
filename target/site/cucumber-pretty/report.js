@@ -22,7 +22,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 53294660423,
+  "duration": 49978941576,
   "status": "passed"
 });
 formatter.scenario({
@@ -62,11 +62,11 @@ formatter.match({
   "location": "HomeSteps.page_title_should_be_something(String)"
 });
 formatter.result({
-  "duration": 24992630,
+  "duration": 30464519,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21966574689,
+  "duration": 23360404726,
   "status": "passed"
 });
 formatter.background({
@@ -85,7 +85,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 48111678882,
+  "duration": 48834710674,
   "status": "passed"
 });
 formatter.scenario({
@@ -129,25 +129,25 @@ formatter.match({
   "location": "HomeSteps.i_hover_over_first_item()"
 });
 formatter.result({
-  "duration": 74740071,
+  "duration": 134534252,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_add_to_cart_button()"
 });
 formatter.result({
-  "duration": 3104044240,
+  "duration": 3175321833,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_should_see_item_has_been_added_to_cart_message_is_displayed()"
 });
 formatter.result({
-  "duration": 62884488,
+  "duration": 62074982,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21830932666,
+  "duration": 23434131331,
   "status": "passed"
 });
 formatter.uri("PurchaseItem.feature");
@@ -174,7 +174,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 48140971372,
+  "duration": 48735728682,
   "status": "passed"
 });
 formatter.scenario({
@@ -214,11 +214,11 @@ formatter.match({
   "location": "HomeSteps.page_title_should_be_something(String)"
 });
 formatter.result({
-  "duration": 22443149,
+  "duration": 7021480,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21845970854,
+  "duration": 23117072567,
   "status": "passed"
 });
 formatter.background({
@@ -237,7 +237,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 48047177788,
+  "duration": 48729129411,
   "status": "passed"
 });
 formatter.scenario({
@@ -331,85 +331,73 @@ formatter.match({
   "location": "HomeSteps.i_hover_over_first_item()"
 });
 formatter.result({
-  "duration": 67830567,
+  "duration": 144172861,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_add_to_cart_button()"
 });
 formatter.result({
-  "duration": 3078966674,
+  "duration": 3189353822,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_checkout_button()"
 });
 formatter.result({
-  "duration": 2104094494,
+  "duration": 2013090601,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_proceed_to_checkout_button()"
 });
 formatter.result({
-  "duration": 2406689309,
+  "duration": 3029433592,
   "status": "passed"
 });
-formatter.match({
-  "location": "HomeSteps.i_enter_my_email()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 136349819,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "HomeSteps.i_enter_my_password()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 114576952,
-  "status": "passed"
+  "status": "undefined"
 });
 formatter.match({
   "location": "HomeSteps.i_click_login_button()"
 });
 formatter.result({
-  "duration": 1330698916,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomeSteps.i_click_proceed_to_shipment_button()"
 });
 formatter.result({
-  "duration": 1765302992,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomeSteps.i_accept_terms_and_conditions()"
 });
 formatter.result({
-  "duration": 68920572,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomeSteps.i_click_proceed_to_payment_button()"
 });
 formatter.result({
-  "duration": 1819189623,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomeSteps.i_click_pay_by_bank_button()"
 });
 formatter.result({
-  "duration": 2027172288,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomeSteps.i_click_confirm_my_order_button()"
 });
 formatter.result({
-  "duration": 2569607665,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -421,11 +409,10 @@ formatter.match({
   "location": "HomeSteps.i_should_see_text_something_on_the_page(String)"
 });
 formatter.result({
-  "duration": 1069014001,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 21883344251,
+  "duration": 21834403130,
   "status": "passed"
 });
 formatter.uri("RegisterUser.feature");
@@ -452,7 +439,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 47914421450,
+  "duration": 49480794093,
   "status": "passed"
 });
 formatter.scenario({
@@ -492,11 +479,11 @@ formatter.match({
   "location": "HomeSteps.page_title_should_be_something(String)"
 });
 formatter.result({
-  "duration": 10203587,
+  "duration": 8043559,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21818808121,
+  "duration": 23170072002,
   "status": "passed"
 });
 formatter.background({
@@ -515,7 +502,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 48226445523,
+  "duration": 49012700598,
   "status": "passed"
 });
 formatter.scenario({
@@ -574,46 +561,46 @@ formatter.match({
   "location": "HomeSteps.i_click_sign_in_button()"
 });
 formatter.result({
-  "duration": 1410001795,
+  "duration": 1516679378,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_enter_my_email_under_create_an_account_header()"
 });
 formatter.result({
-  "duration": 152912244,
+  "duration": 303348121,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_create_an_account_button()"
 });
 formatter.result({
-  "duration": 98787085,
+  "duration": 82172553,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_enter_random_details()"
 });
 formatter.result({
-  "duration": 7120100592,
+  "duration": 7633368311,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_register_button()"
 });
 formatter.result({
-  "duration": 1407116464,
+  "duration": 1405319904,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_should_see_i_have_successfully_registered()"
 });
 formatter.result({
-  "duration": 3011084439,
+  "duration": 3004852041,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21816895302,
+  "duration": 23735297271,
   "status": "passed"
 });
 formatter.uri("SuccessfulLogin.feature");
@@ -640,7 +627,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 47961607730,
+  "duration": 50170700538,
   "status": "passed"
 });
 formatter.scenario({
@@ -680,11 +667,11 @@ formatter.match({
   "location": "HomeSteps.page_title_should_be_something(String)"
 });
 formatter.result({
-  "duration": 9945949,
+  "duration": 15160593,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21983206479,
+  "duration": 21861625877,
   "status": "passed"
 });
 formatter.background({
@@ -703,7 +690,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 6825730720,
+  "duration": 48301150723,
   "status": "passed"
 });
 formatter.scenario({
@@ -735,12 +722,12 @@ formatter.step({
 });
 formatter.step({
   "line": 15,
-  "name": "I enter my Email",
+  "name": "I enter my Email \"testabc@yahoo.com\"",
   "keyword": "And "
 });
 formatter.step({
   "line": 16,
-  "name": "I enter my password",
+  "name": "I enter my password \"password1\"",
   "keyword": "And "
 });
 formatter.step({
@@ -757,41 +744,52 @@ formatter.match({
   "location": "HomeSteps.i_click_sign_in_button()"
 });
 formatter.result({
-  "duration": 22611642607,
+  "duration": 1797962213,
   "status": "passed"
 });
 formatter.match({
-  "location": "HomeSteps.i_enter_my_email()"
+  "arguments": [
+    {
+      "val": "testabc@yahoo.com",
+      "offset": 18
+    }
+  ],
+  "location": "HomeSteps.i_enter_my_email(String)"
 });
 formatter.result({
-  "duration": 103518701,
+  "duration": 272049802,
   "status": "passed"
 });
 formatter.match({
-  "location": "HomeSteps.i_enter_my_password()"
+  "arguments": [
+    {
+      "val": "password1",
+      "offset": 21
+    }
+  ],
+  "location": "HomeSteps.i_enter_my_password(String)"
 });
 formatter.result({
-  "duration": 77947449,
+  "duration": 169109026,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_login_button()"
 });
 formatter.result({
-  "duration": 6402054660,
+  "duration": 1174132357,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_should_see_i_have_successfully_logged_in()"
 });
 formatter.result({
-  "duration": 5019341941,
+  "duration": 5011801679,
   "status": "passed"
 });
 formatter.after({
-  "duration": 131946973,
-  "error_message": "cucumber.runtime.CucumberException: Failed to instantiate class ui.StepDefinitions.Hooks\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:45)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:31)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:223)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:211)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:205)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:91)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:93)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:37)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:98)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)\r\nCaused by: java.lang.reflect.InvocationTargetException\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:39)\r\n\t... 31 more\r\nCaused by: org.openqa.selenium.WebDriverException: unknown error: failed to change window state to normal, current state is maximized\n  (Session info: chrome\u003d60.0.3112.113)\n  (Driver info: chromedriver\u003d2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform\u003dWindows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 129 milliseconds\nBuild info: version: \u00273.0.0\u0027, revision: \u0027350cf60\u0027, time: \u00272016-10-13 10:48:57 -0700\u0027\nSystem info: host: \u0027User-PC\u0027, ip: \u0027192.168.56.1\u0027, os.name: \u0027Windows 7\u0027, os.arch: \u0027amd64\u0027, os.version: \u00276.1\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, mobileEmulationEnabled\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir\u003dC:\\Users\\User\\AppData\\Local\\Temp\\scoped_dir4504_27057}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, hasTouchScreen\u003dfalse, version\u003d60.0.3112.113, platform\u003dXP, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, acceptSslCerts\u003dtrue, locationContextEnabled\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d}]\nSession ID: 7b0c9e54198c330866ed7a3893a21d95\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:882)\r\n\tat Utilities.WebBrowser.getDriver(WebBrowser.java:41)\r\n\tat ui.StepDefinitions.Hooks.\u003cinit\u003e(Hooks.java:8)\r\n\t... 36 more\r\n",
-  "status": "failed"
+  "duration": 21939171472,
+  "status": "passed"
 });
 formatter.uri("Unsuccessfullogin.feature");
 formatter.feature({
@@ -817,7 +815,7 @@ formatter.match({
   "location": "HomeSteps.i_am_on_homepage()"
 });
 formatter.result({
-  "duration": 21097821298,
+  "duration": 48218662486,
   "status": "passed"
 });
 formatter.scenario({
@@ -857,39 +855,20 @@ formatter.match({
   "location": "HomeSteps.page_title_should_be_something(String)"
 });
 formatter.result({
-  "duration": 21239896,
+  "duration": 17169714,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21883986576,
+  "duration": 21850738335,
   "status": "passed"
 });
-formatter.background({
-  "line": 5,
-  "name": "",
-  "description": "",
-  "type": "background",
-  "keyword": "Background"
-});
-formatter.step({
-  "line": 6,
-  "name": "I am on HomePage",
-  "keyword": "Given "
-});
-formatter.match({
-  "location": "HomeSteps.i_am_on_homepage()"
-});
-formatter.result({
-  "duration": 47903618713,
-  "status": "passed"
-});
-formatter.scenario({
+formatter.scenarioOutline({
   "line": 13,
   "name": "Verify Login a user",
   "description": "",
   "id": "unsuccessful-login;verify-login-a-user",
-  "type": "scenario",
-  "keyword": "Scenario",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline",
   "tags": [
     {
       "line": 12,
@@ -912,12 +891,117 @@ formatter.step({
 });
 formatter.step({
   "line": 15,
-  "name": "I enter Random Email",
+  "name": "I enter Random email as \u003cEmail\u003e",
   "keyword": "And "
 });
 formatter.step({
   "line": 16,
-  "name": "I enter Random Password",
+  "name": "I enter Random password as \u003cPassword\u003e",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 17,
+  "name": "I click login button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "I should see login error is displayed",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 20,
+  "name": "",
+  "description": "",
+  "id": "unsuccessful-login;verify-login-a-user;",
+  "rows": [
+    {
+      "cells": [
+        "Email",
+        "Password"
+      ],
+      "line": 21,
+      "id": "unsuccessful-login;verify-login-a-user;;1"
+    },
+    {
+      "cells": [
+        "abc@yahoo.com",
+        "pass123"
+      ],
+      "line": 22,
+      "id": "unsuccessful-login;verify-login-a-user;;2"
+    },
+    {
+      "cells": [
+        "777@yahoo.com",
+        "pass999"
+      ],
+      "line": 23,
+      "id": "unsuccessful-login;verify-login-a-user;;3"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.background({
+  "line": 5,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 6,
+  "name": "I am on HomePage",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "HomeSteps.i_am_on_homepage()"
+});
+formatter.result({
+  "duration": 48896999414,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 22,
+  "name": "Verify Login a user",
+  "description": "",
+  "id": "unsuccessful-login;verify-login-a-user;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 12,
+      "name": "@Automation"
+    },
+    {
+      "line": 12,
+      "name": "@Login_Fail"
+    },
+    {
+      "line": 12,
+      "name": "@test5"
+    }
+  ]
+});
+formatter.step({
+  "line": 14,
+  "name": "I click sign in button",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 15,
+  "name": "I enter Random email as abc@yahoo.com",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 16,
+  "name": "I enter Random password as pass123",
+  "matchedColumns": [
+    1
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -934,39 +1018,174 @@ formatter.match({
   "location": "HomeSteps.i_click_sign_in_button()"
 });
 formatter.result({
-  "duration": 1422254804,
+  "duration": 1531739816,
   "status": "passed"
 });
 formatter.match({
-  "location": "HomeSteps.i_enter_random_email()"
+  "arguments": [
+    {
+      "val": "abc@yahoo.com",
+      "offset": 24
+    }
+  ],
+  "location": "HomeSteps.i_enter_random_email(String)"
 });
 formatter.result({
-  "duration": 162516328,
+  "duration": 212983722,
   "status": "passed"
 });
 formatter.match({
-  "location": "HomeSteps.i_enter_random_password()"
+  "arguments": [
+    {
+      "val": "pass123",
+      "offset": 27
+    }
+  ],
+  "location": "HomeSteps.i_enter_random_password(String)"
 });
 formatter.result({
-  "duration": 103096501,
+  "duration": 99263700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_click_login_button()"
 });
 formatter.result({
-  "duration": 828693907,
+  "duration": 818198870,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeSteps.i_should_see_login_error_is_displayed()"
 });
 formatter.result({
-  "duration": 58410509,
+  "duration": 91095213,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21896360265,
+  "duration": 22994752293,
+  "status": "passed"
+});
+formatter.background({
+  "line": 5,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 6,
+  "name": "I am on HomePage",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "HomeSteps.i_am_on_homepage()"
+});
+formatter.result({
+  "duration": 49051773861,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 23,
+  "name": "Verify Login a user",
+  "description": "",
+  "id": "unsuccessful-login;verify-login-a-user;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 12,
+      "name": "@Automation"
+    },
+    {
+      "line": 12,
+      "name": "@Login_Fail"
+    },
+    {
+      "line": 12,
+      "name": "@test5"
+    }
+  ]
+});
+formatter.step({
+  "line": 14,
+  "name": "I click sign in button",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 15,
+  "name": "I enter Random email as 777@yahoo.com",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 16,
+  "name": "I enter Random password as pass999",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 17,
+  "name": "I click login button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "I should see login error is displayed",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "HomeSteps.i_click_sign_in_button()"
+});
+formatter.result({
+  "duration": 1955731762,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "777@yahoo.com",
+      "offset": 24
+    }
+  ],
+  "location": "HomeSteps.i_enter_random_email(String)"
+});
+formatter.result({
+  "duration": 193185201,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "pass999",
+      "offset": 27
+    }
+  ],
+  "location": "HomeSteps.i_enter_random_password(String)"
+});
+formatter.result({
+  "duration": 138380140,
+  "status": "passed"
+});
+formatter.match({
+  "location": "HomeSteps.i_click_login_button()"
+});
+formatter.result({
+  "duration": 781323358,
+  "status": "passed"
+});
+formatter.match({
+  "location": "HomeSteps.i_should_see_login_error_is_displayed()"
+});
+formatter.result({
+  "duration": 92039078,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 22993828601,
   "status": "passed"
 });
 });

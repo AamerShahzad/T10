@@ -10,9 +10,14 @@ Feature: Unsuccessful login
     Then Page title should be "My Store"
 
   @test5 @Login_Fail @Automation
-  Scenario: Verify Login a user
+  Scenario Outline: Verify Login a user
     When I click sign in button
-    And I enter Random Email
-    And I enter Random Password
+    And I enter Random email as <Email>
+    And I enter Random password as <Password>
     And I click login button
     Then I should see login error is displayed
+
+    Examples: 
+      | Email         | Password |
+      | abc@yahoo.com | pass123  |
+      | 777@yahoo.com | pass999  |

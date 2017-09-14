@@ -154,16 +154,16 @@ public class HomeSteps {
     	Assert.assertEquals(GenericFunctions.getCurrentPageURL(),"http://automationpractice.com/index.php?controller=my-account");
     }
 
-    @And("^I enter my Email$")
-    public void i_enter_my_email() throws Throwable {
+    @And("^I enter my Email \"([^\"]*)\"$")
+    public void i_enter_my_email(String email) throws Throwable {
     	
-        GenericFunctions.sendData1("email", Email);
+        GenericFunctions.sendData1("email", email);
     }
 
-    @And("^I enter my password$")
-    public void i_enter_my_password() throws Throwable {
+    @And("^I enter my password \"([^\"]*)\"$")
+    public void i_enter_my_password(String password) throws Throwable {
     	
-    	 GenericFunctions.sendData1("passwd", Password);
+    	 GenericFunctions.sendData1("passwd", password);
     }
     
 
@@ -234,20 +234,19 @@ public class HomeSteps {
       Assert.assertTrue( GenericFunctions.isElementDisplayed(objHomePage.error_Login));
     }
 
-    @And("^I enter Random Email$")
-    public void i_enter_random_email() throws Throwable {
+    @And("^I enter Random email as ([^\\\"]*)$")
+    public void i_enter_random_email(String email) throws Throwable {
     	
-    	GenericFunctions.sendData1("email", GenericFunctions.generateEmail(14));
+    	GenericFunctions.sendData1("email",email);
     	
     }
 
-    @And("^I enter Random Password$")
-    public void i_enter_random_password() throws Throwable {
+    @And("^I enter Random password as ([^\\\"]*)$")
+    public void i_enter_random_password(String password) throws Throwable {
     	
-    	GenericFunctions.sendData1("passwd", GenericFunctions.generatePassword(12));
+    	GenericFunctions.sendData1("passwd", password);
+
     }
-
-
 
 	
 }
